@@ -1,0 +1,47 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+header > div{
+   background-color: blue;
+  height:100px;
+  color:white;
+  text-align: center;
+  margin-top: 0px;
+  display: flex;
+  
+}
+.outros-locais{
+    width: 50%;    
+}
+a{
+    color: white;
+    text-decoration: none;
+    background-color: orange;
+    padding: 10px;
+    border-radius: 20px;
+    border: 1px solid white;
+}
+.titulo{
+    width: 50%;
+    font-size: 15px;
+}
+main{
+    margin: 40px 0;
+    width: 100%;
+}
+div{
+    width: 100%;
+    text-align: center;
+    margin: 30px 0;
+}
+div > p{
+    text-align: left;
+    margin-left:30px;
+}
+footer{
+    background-color: blue;
+    color: white;
+    padding-top: 20px;
+}
